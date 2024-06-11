@@ -1,12 +1,9 @@
-## Hi there 👋
+<p align="center">
+<img alt="Logo Banner" src="https://paperui.com/banner/banner.svg?sanitize=true"/>
+<br/>
 
+<!--<div align="center"><a href='https://ko-fi.com/brick_wall' target='_blank'><img height='30' style='border:0px;height:41px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' margin-top="10px" alt='Buy Me a Coffee at ko-fi.com'/></a></div>-->
+<div align="left">The Paper UI library allows users to easily import and style a wide range of components with a singular cdn link.</div>
+<div align="left">
 
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+[Documentation](https://paperui.com/)
